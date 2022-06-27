@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Szymon/CLionProjects/sdizo_test/BellmanFordAlgorithm.cpp
+BellmanFordAlgorithm.h
+C:/Users/Szymon/CLionProjects/sdizo_test/BellmanFordAlgorithm.h
+iostream
+-
+limits
+-
+vector
+-
+
+C:/Users/Szymon/CLionProjects/sdizo_test/BellmanFordAlgorithm.h
+Graph.h
+C:/Users/Szymon/CLionProjects/sdizo_test/Graph.h
+
+C:/Users/Szymon/CLionProjects/sdizo_test/DijkstraAlgorithm.cpp
+DijkstraAlgorithm.h
+C:/Users/Szymon/CLionProjects/sdizo_test/DijkstraAlgorithm.h
+iostream
+-
+limits
+-
+queue
+-
+
+C:/Users/Szymon/CLionProjects/sdizo_test/DijkstraAlgorithm.h
+Graph.h
+C:/Users/Szymon/CLionProjects/sdizo_test/Graph.h
+
+C:/Users/Szymon/CLionProjects/sdizo_test/Graph.h
+string
+-
+vector
+-
+
